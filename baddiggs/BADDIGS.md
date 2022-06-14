@@ -1,3 +1,0 @@
-# BADDIGGS - Beispiele aus Digitalsierungsprojekten, die gut gelaufen sind ...
-
-(im Aufbau)
