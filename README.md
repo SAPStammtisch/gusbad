@@ -17,9 +17,9 @@ Jeder kann zu dieser Seite etwas beitragen. Wie das geht, erklären wir etwas we
 ## Hier geht es zu den Beispielen (SCHLEBAD, BADDIGGS, Zitate) 
 
 Wir unterscheiden derzeit:
+- [Zitate](zitate/ZITATE.md) aus unterschiedlichen Quellen, die irgendwas mit der Digitalisierung zu tun haben
 - [Gute Beispiele](baddiggs/BADDIGS.md) (#BADDIGGS - Beispiele aus Digitalisierungsprojekten, die gut gelaufen sind)
 - [Schlechte Beispiele](schlebad/SCHLEBAD.md) (#SCHLEBAD - Schlechte Beispiele aus Digitalsierungsprojekten)
-- [Zitate](zitate/ZITATE.md) aus unterschiedlichen Quellen, die irgendwas mit der Digitalisierung zu tun haben]
 
 
 ## Wie kann man etwas beitragen?
@@ -46,4 +46,4 @@ Wir haben bewusst diese Art der Veröffentlichung gewählt, damit man sie verlin
 
 
 ---
-letzte Änderung: 14.06.2022
+letzte Änderung: 14.06.2022 10:25
