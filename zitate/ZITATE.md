@@ -1,5 +1,17 @@
 # Zitate 
 
+#7 ***Die Bürokratie ist der Atommüll der modernen Organisation.***
+(Wolf Lotter aus dem Buch "Innovation")
+
+#6 ***B-Kader stellen B- oder C-Kader ein…***
+(unbekannt)
+
+#5 ***Erfolg besteht darin, dass man genau die Fähigkeiten hat, die im Moment gefragt sind.***
+(Henry Ford)
+
+#4 ***Wissenschaft ist eine Religion, an die man nicht glauben muss.***
+(unbekannt)
+
 #3 ***Die Digitalisierung ist mittlerweile ein ideologisches Konzept geworden, zum Digitalismus… Was sagen eigentlich die sogenannten Digital Natives dazu, die sich selbst für eine digitale Elite halten? Nichts, meistens, was daran liegt, dass niemand durch die Gnade des richtigen Geburtsjahrgangs schon zum Schlaumeier wird.*** 
 (Wolf Lotter in ["Fauler Zauber"](https://www.taz.de/!168081/))
 
