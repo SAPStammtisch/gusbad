@@ -12,3 +12,5 @@ Solche Beispiele kennt man doch, oder?
 Woran liegt das eigentlich, dass viele Menschen nur "bis zu ihrem Tellerrand denken" und völlig praxisfern unterwegs sind? 
 
 Dieses Beispiel zeigt auch, dass in Digitalaisierungsprojekten sehr oft die Menschen das eigentliche "Problem" sind. Eine gute Software kennt diesen "Fall" und berücksichtigt ihn natürlich in der Rechnungseingangsprüfung. 
+
+{% include_relative FOOTER.md %}

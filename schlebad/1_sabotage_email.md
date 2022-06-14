@@ -23,3 +23,5 @@ Was hier passiert ist, beschreibt Gunter Dueck in seinem Buch "Das Neue und sein
 *Unternehmen haben eine Art Immunsystem, das jede neue Idee wie eine Störung behandelt. Die Kunst ist es, das Neue mit unerschütterlicher Energie und über alle Hindernisse hinweg durchzusetzen, wenn die Zeit reif ist... Es wird Blut fließen...*
 
 Das bringt es in etwa auf den Punkt. Es wird immer größere Gruppen dafür und dagegen geben. Veränderungen sind generell eher unbeliebt. Wenn man Digitalsierungsprojekte durchführt, muss man mit solchen Störungen, Sabotageakten, Manipulationsversuchen, u.ä. rechnen und dafür entsprechend Budget und Zeit einplanen (bis zu 50% vom Budget).  
+
+{% include_relative FOOTER.md %}
