@@ -7,11 +7,11 @@ Dieses Projekt wurde im Mai 2022 durch eine Initiative aus dem Umfeld der SAP St
 
 Leider konnten wir in den meisten Fällen solche realen Beispiele nicht offen verwenden. Mit anderen Worten: irgendwer hatte etwas dagegen, wenn diese oft unangenehmen Beispiele an die Öffentlichkeit kommen würden. 
 
-Aber kommen wir mit dieser **Digitalisierung** wirklich zum Ziel, wenn wir uns die Welt schön reden und die eigentlichen Wahrheiten nicht gesagt werden dürfen?
+Aber kommen wir mit dieser *Digitalisierung* wirklich zum Ziel, wenn wir uns die Welt schön reden und die eigentlichen Wahrheiten nicht gesagt werden dürfen?
 
-Wir denken nein und wollen hier auf dieser Seite anonymisierte Beispiele sammeln, die uns und unserem Umfeld "den Spiegel vorhalten" und hoffenlich auch unterhaltsam sind. 
+Wir denken nein und wollen hier auf dieser Seite anonymisierte Beispiele sammeln, die uns und unserem Umfeld "den Spiegel vorhalten" und manchmal sogar unterhaltsam sind. 
 
-Jeder kann zu dieser Seite etwas beitragen. Wie das geht, erklären wir etwas weiter auf dieser Seite.   
+Jeder kann zu dieser Seite etwas beitragen. Wie das geht, erklären wir etwas weiter unten auf dieser Seite.   
 
 
 ## Hier geht es zu den Beispielen (SCHLEBAD, BADDIGGS, Zitate) 
@@ -46,4 +46,4 @@ Wir haben bewusst diese Art der Veröffentlichung gewählt, damit man sie verlin
 
 
 ---
-letzte Änderung: 06.06.2022
+letzte Änderung: 14.06.2022
