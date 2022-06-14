@@ -19,5 +19,4 @@ Diese Geschichte ist ein Beispiel für *"Wenn man einen Sch...-Prozess digitalis
 
 Auf jeden Fall sollte man die internen Machtstrukturen nicht unterschätzen, die sogar die Geschäftsführung von ihrem Pfad abbringen können.
 
-
-
+{% include_relative FOOTER.md %}
