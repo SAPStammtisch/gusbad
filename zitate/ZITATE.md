@@ -27,14 +27,15 @@
 (Wolf Lotter in ["Fauler Zauber"](https://www.taz.de/!168081/))
 
 
-[#2](2_dueck_immunsystem.md)  
+[#2](2_dueck_immunsystem.md)
+
 {% include_relative 2_dueck_immunsystem.md %}
 
-[#1](1_lotter_kultur.md)  
+[#1](1_lotter_kultur.md)   
 {% include_relative 1_lotter_kultur.md %}
 
 ---
 
 Sie haben einpassendes Zitat für uns? Auf der [Projektseite](https://sapstammtisch.github.io/gusbad) ist beschrieben, wie Sie zu diesem Projekt beitragen können. Wir freuen uns auf Ihren Beitrag!  
 
-letzte Änderung: 14.06.2022
+letzte Änderung: 14.06.2022 10:25
