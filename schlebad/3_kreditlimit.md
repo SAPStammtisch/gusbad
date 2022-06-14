@@ -12,10 +12,10 @@ Während des Projektes stellte sich heraus, dass der Prozess "Kreditlimitprüfun
 
 Das Ergebnis war, dass die automatische Kreditlimitprüfung der Software "ausgebaut" wurde und die bisherigen Tools der Abteilung "Kreditlimitprüfung" in der neuen Software nachgebaut werden mussten. Das alles hat natürlich zusätzliche Kosten verursacht, für viel "Kopfschütteln" gesorgt und das Vertrauen in die Geschäftsführung nachhaltig gestört. 
 
-Der Kunde muss jetzt natürlich wieder länger auf seinen Auftrag warten und Verbesserungspotenziale wurden leichtfertig verspielt. Und das alles wegen ein paar Mitarbeitern, die sich nicht den Unternehmenszielen unterordnen konnten und ihre eigenen Interessen durch informelle Machtstrukturen durchsetzen konnten. Manche Dinge sind eben wichtiger ...
+Der Kunde muss jetzt natürlich wieder länger auf seinen Auftrag warten und Verbesserungspotenziale wurden leichtfertig verspielt. Und das alles wegen ein paar Mitarbeitern, die sich nicht den Unternehmenszielen unterordnen wollten und ihre eigenen Interessen durch informelle Machtstrukturen durchsetzen konnten. Manche Dinge sind eben wichtiger ...
 
 
-Diese Geschichte ist ein Beispiel für *"Wenn man einen Sch...-Prozess digitalisiert, bekommt man einen digitalisierten Sch...-Prozess"*. Wenigstens der Klebezettel konnte ersetzt werden. Was geht in den Menschen vor, die sich so verhalten? Vor allem, wenn Entlassungen gar nicht zur Diskussion standen? Ist es nur die Unwilligkeit oder Unfähigkeit zur Veränderung?
+Diese Geschichte ist ein Beispiel für *"Wenn man einen Sch...-Prozess digitalisiert, bekommt man einen digitalisierten Sch...-Prozess"*. Wenigstens die Klebezettel konnten ersetzt werden. Was geht in den Menschen vor, die sich so verhalten? Vor allem, wenn Entlassungen gar nicht zur Diskussion standen? Ist es nur die Unwilligkeit oder Unfähigkeit zur Veränderung?
 
 Auf jeden Fall sollte man die internen Machtstrukturen nicht unterschätzen, die sogar die Geschäftsführung von ihrem Pfad abbringen können.
 
