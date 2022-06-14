@@ -1,4 +1,4 @@
-# Meine Excel-Zahlen müssen einfach stimmen
+# Mein Excel muss stimmen
 
 Dieses Schlebad könnte wahrscheinlich aus jedem Unternehmen oder Organisation stammen und ist bestimmt genau so schon sehr häufig passiert. Tatsächlich stammt es aus einem deutschen Produktionsunternehmen.
 

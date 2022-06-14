@@ -11,6 +11,6 @@ Dieses Schlebad kommt aus dem Einkauf eines Unternehmens. Dieses Unternehmen kau
 Solche Beispiele kennt man doch, oder? 
 Woran liegt das eigentlich, dass viele Menschen nur "bis zu ihrem Tellerrand denken" und völlig praxisfern unterwegs sind? 
 
-Dieses Beispiel zeigt auch, dass in Digitalaisierungsprojekten sehr oft die Menschen das eigentliche "Problem" sind. Eine gute Software kennt diesen "Sonderfall" und berücksichtigt ihn natürlich in der Rechnungseingangsprüfung. Was wird eigentlich der Dienstleister davon halten, wenn er eine Bestelländerung für eine Sache bekommt, die eigentlich schon abgehakt hat?
+Dieses Beispiel zeigt auch, dass in Digitalaisierungsprojekten sehr oft die Menschen das eigentliche "Problem" sind. Eine gute Software kennt diesen "Sonderfall" und berücksichtigt ihn natürlich in der Rechnungseingangsprüfung. Was wird eigentlich der Dienstleister davon halten, wenn er eine Bestelländerung für eine Sache bekommt, die eigentlich schon abgehakt ist?
 
 {% include_relative FOOTER.md %}
