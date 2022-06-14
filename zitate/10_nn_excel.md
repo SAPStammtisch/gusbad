@@ -1,0 +1,1 @@
+***"Wenn junge Menschen in den Job kommen, hat man den Eindruck, dass sie alles Gelernte vergessen und es sich hinter Ihrem Excel gemütlich machen."***   

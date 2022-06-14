@@ -1,7 +1,15 @@
 # Zitate 
 
-letzte Änderung: 14.06.2022 15:00
+letzte Änderung: 14.06.2022 16:30
 
+[#10](zitate/10_nn_excel.md)   
+{% include_relative zitate/10_10_nn_excel %}
+
+[#9](zitate/9_nn_transformation.md)   
+{% include_relative zitate/9_nn_transformation %}
+
+[#8](zitate/8_nn_rakete.md)   
+{% include_relative zitate/8_nn_rakete.md %}
 
 [#7](zitate/7_lotter_buerokratie.md)   
 {% include_relative zitate/7_lotter_buerokratie.md %}

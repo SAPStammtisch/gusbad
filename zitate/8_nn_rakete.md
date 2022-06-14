@@ -1,0 +1,2 @@
+***"Wir zeigen Menschen, die sonst Dreirad fahren, unsere Rakete. Es ist gefährlich, wenn diese dann kein Interesse zeigen aber mit den Knöpfen spielen wollen."***   
+(Anmerkung: Rakete im Sinne von "neueste Technologie")

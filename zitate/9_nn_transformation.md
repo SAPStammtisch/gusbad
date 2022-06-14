@@ -1,0 +1,1 @@
+***"Wenn wir über Transformation reden und sagen, dass wir dafür Menschen suchen, die sich in neue Themen einarbeiten und Verantwortung übernehmen sollen, sind auf einmal alle weg."***  
