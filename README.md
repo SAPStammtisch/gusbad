@@ -24,9 +24,9 @@ Wir unterscheiden derzeit:
 
 ## Wie kann man etwas beitragen?
 
-Wir freuen uns auf Eure Beispiele und werden hier in Kürze eine Email veröffentlichen, wo Ihr Eure Beispiele, Anregungen oder Fragen hinschicken könnt.
+Wir freuen uns auf Eure Beispiele, Zitate, Anregungen oder Fragen, die Ihr per Email an gusbad@sapstammtisch.org an uns schicken könnt.
 
-Im Augenblick experimentieren wir noch, wie man die Beispiele formulieren sollte, damit unser Ziel "unterhaltsam, aber Augen öffnend" erreicht wird. Auf jeden Fall sollte man keine Personen oder Organsiatoren aus dem Text ableiten können. Ausnahme, die Beispiele sind sowieso schon öffentlich bekannt. 
+Im Augenblick experimentieren wir noch, wie man die Beispiele formulieren sollte, damit unser Ziel "unterhaltsam, aber Augen öffnend" erreicht wird. Auf jeden Fall sollte man keine Personen oder Organsiatoren aus dem Text ableiten können. Ausnahme: die Beispiele sind sowieso schon öffentlich bekannt. 
 
 Eine kleine Liste, die Euch beim Formulieren helfen könnte:
 - In welche Kategorie passt Euer Beitrag (z.B. SCHLEBAD, BADDIGGS, Zitate, Anregung, Frage)
@@ -35,7 +35,7 @@ Eine kleine Liste, die Euch beim Formulieren helfen könnte:
 - Ein kruzer Nachtrag in Form von Fragen, Anmerkungen, Zusatzinfos usw.
 - Falls die Quelle bekannt ist und genannt werden soll/kann - Infos zum Urheber/Quelle
 
-Die Beispiele sollten - vielleicht etwas überspitzt - aus der Praxis stammen und nicht erfunden sein. Wir suchen nicht nur schlechte Beispiele. Wenn etwas gut geklappt hat, sollte man auch darüber berichten. 
+Die Beispiele sollten - vielleicht etwas überspitzt - aus der Praxis stammen und nicht erfunden sein. Wir suchen nicht nur schlechte Beispiele. Wenn etwas gut geklappt hat, sollte man auch darüber berichten. Wir prüfen Eure Emails so schnell wie möglich und geben Euch Bescheid, wenn Eure Beiträge online sind. 
 
 Vielen Dank bereits im Voraus!
 
