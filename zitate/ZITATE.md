@@ -1,6 +1,6 @@
 # Zitate 
 
-letzte Änderung: 14.06.2022 11:30
+letzte Änderung: 14.06.2022 11:35
 
 
 [#7](7_lotter_buerokratie.md)   
@@ -15,7 +15,7 @@ letzte Änderung: 14.06.2022 11:30
 [#4](4_nn_wissenschaft.md)   
 {% include_relative 4_nn_wissenschaft.md %}
 
-[#3](3_lotter_zauber.md)
+[#3](3_lotter_zauber.md)   
 {% include_relative 3_lotter_zauber.md %}
 
 [#2](2_dueck_immunsystem.md)   
@@ -27,4 +27,4 @@ letzte Änderung: 14.06.2022 11:30
 
 ---
 
-Sie haben einpassendes Zitat für uns? Auf der [Projektseite](https://sapstammtisch.github.io/gusbad) ist beschrieben, wie Sie zu diesem Projekt beitragen können. Wir freuen uns auf Ihren Beitrag!  
+Sie haben ein passendes Zitat für uns? Auf der [Projektseite](https://sapstammtisch.github.io/gusbad) ist beschrieben, wie Sie zu diesem Projekt beitragen können. Wir freuen uns auf Ihren Beitrag!  

@@ -1,2 +1,2 @@
-***Die Digitalisierung ist mittlerweile ein ideologisches Konzept geworden, zum Digitalismus… Was sagen eigentlich die sogenannten Digital Natives dazu, die sich selbst für eine digitale Elite halten? Nichts, meistens, was daran liegt, dass niemand durch die Gnade des richtigen Geburtsjahrgangs schon zum Schlaumeier wird.***  
+***"Die Digitalisierung ist mittlerweile ein ideologisches Konzept geworden, zum Digitalismus… Was sagen eigentlich die sogenannten Digital Natives dazu, die sich selbst für eine digitale Elite halten? Nichts, meistens, was daran liegt, dass niemand durch die Gnade des richtigen Geburtsjahrgangs schon zum Schlaumeier wird."***  
 (Wolf Lotter in ["Fauler Zauber"](https://www.taz.de/!168081/))
