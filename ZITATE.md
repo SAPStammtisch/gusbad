@@ -1,6 +1,6 @@
 # Zitate 
 
-letzte Änderung: 14.06.2022 16:30
+letzte Änderung: 14.06.2022 16:45
 
 [#10](zitate/10_nn_excel.md)   
 {% include_relative zitate/10_10_nn_excel %}
