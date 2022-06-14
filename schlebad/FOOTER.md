@@ -1,9 +1,9 @@
 ---
 
-Sie haben eine interessante SCHLEBAD Anekdote für uns? Auf der Projektseite ist beschrieben, wie Sie zu diesem Projekt beitragen können. Wir freuen uns auf Ihre Erfahrungen!  
+Sie haben eine interessante SCHLEBAD Anekdote für uns? Auf der [Projektseite](https://sapstammtisch.github.io/gusbad) ist beschrieben, wie Sie zu diesem Projekt beitragen können. Wir freuen uns auf Ihre Erfahrungen!  
 
 
-[Zurück zur SCHLEBAD Seite](SCHLEBAD.md)
+[Zurück zur SCHLEBAD Seite](https://sapstammtisch.github.io/gusbad/schlebad/SCHLEBAD.html)
 
-[Zurück zur Hauptseite](../README.md)
+[Zurück zur Projektseite](https://sapstammtisch.github.io/gusbad)
 
