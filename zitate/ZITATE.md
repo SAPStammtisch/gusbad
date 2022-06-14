@@ -31,8 +31,15 @@
 
 (Gunter Dueck aus dem Buch "Das Neue und seine Feinde", Campus)
 
+#2
+{% include_relative 2_dueck_immunsystem.md %}
+
 #1 
 
 ***Kultur ist das, was zwischen uns und der Veränderung steht.*** 
 
 (Wolf Lotter)
+
+
+---
+letzte Änderung: 14.06.2022
