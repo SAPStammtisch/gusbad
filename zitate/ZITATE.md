@@ -1,1 +1,3 @@
-# Zitate aus Digitalsierungsprojekten
+# Zitate 
+
+"Kultur ist das, was zwischen uns und der Veränderung steht." (Wolf Lotter)
