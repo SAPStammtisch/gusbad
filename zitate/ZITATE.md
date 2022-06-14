@@ -28,14 +28,13 @@
 
 
 #2
-
 {% include_relative 2_dueck_immunsystem.md %}
 
-
 #1 
-
 {% include_relative 1_lotter_kultur.md %}
 
-
 ---
+
+Sie haben einpassendes Zitat für uns? Auf der [Projektseite](https://sapstammtisch.github.io/gusbad) ist beschrieben, wie Sie zu diesem Projekt beitragen können. Wir freuen uns auf Ihren Beitrag!  
+
 letzte Änderung: 14.06.2022
