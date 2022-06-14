@@ -1,3 +1,6 @@
 # SCHLEBAD - Schlechte Beispiele aus Digitalisierungsprojekten
 
-(im Aufbau)
+---
+Nr | Titel | Stichworte | Datum | Quelle |
+---
+1 | [Eine Email, es zu stoppen](1_sabotage.md) | Sabotage, Email | 2022 | |
