@@ -27,9 +27,11 @@
 (Wolf Lotter in ["Fauler Zauber"](https://www.taz.de/!168081/))
 
 
-#2  {% include_relative 2_dueck_immunsystem.md %}
+[#2](2_dueck_immunsystem.md)  
+{% include_relative 2_dueck_immunsystem.md %}
 
-#1  {% include_relative 1_lotter_kultur.md %}
+[#1](1_lotter_kultur.md)  
+{% include_relative 1_lotter_kultur.md %}
 
 ---
 
