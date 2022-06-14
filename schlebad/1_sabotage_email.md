@@ -4,15 +4,15 @@ Dieses Schlebad stammt aus einem Digitalisierungsprojekt, welches nach mehreren 
 
 Die folgenden Zitate sind Auszüge einer Email, die ein „verdienter Mitarbeiter“ kurz vor dem Produktivstart an ALLE gesendet hat. Ziel war es, das Digitalisierungsprojekt auf der Ziellinie doch noch zu stoppen:
 
-„… Ich bin jetzt schon 40 Jahre im Unternehmen…“
-„… Ein derart dilettantisch geführtes Projekt habe ich … noch nie erlebt…“
-„… alle Warnungen meinerseits … wurden belächelt…“
-„… dass sich ab jetzt alles bessern würde… BlaBlaBla…“
-„… Fakt ist, dass ich der Einzige im Unternehmen bin, der dazu in der Lage ist…“
-„… Alle meine Anstrengungen … waren nutzlos, alle waren informiert…“
-„… Der Integrationstest … war eine Farce und inszeniert…Note Fünf…“
-„… ich wollte nur hinweisen, dass es so nicht weiter gehen kann… sonst Pleite … vor der Tür“
-„… es gab in den letzten Tagen viel Verwirrungen und Falschaussagen seitens Hr. X…“
+- „… Ich bin jetzt schon 40 Jahre im Unternehmen…“
+- „… Ein derart dilettantisch geführtes Projekt habe ich … noch nie erlebt…“
+- „… alle Warnungen meinerseits … wurden belächelt…“
+- „… dass sich ab jetzt alles bessern würde… BlaBlaBla…“
+- „… Fakt ist, dass ich der Einzige im Unternehmen bin, der dazu in der Lage ist…“
+- „… Alle meine Anstrengungen … waren nutzlos, alle waren informiert…“
+- „… Der Integrationstest … war eine Farce und inszeniert…Note Fünf…“
+- „… ich wollte nur hinweisen, dass es so nicht weiter gehen kann… sonst Pleite … vor der Tür“
+- „… es gab in den letzten Tagen viel Verwirrungen und Falschaussagen seitens Hr. X…“
 
 
 Diese Email wurde im Unternehmen noch einige Tage konträr diskutiert. Es gab keine Konsequenzen. Das Projekt war am Ende erfolgreich und das Unternehmen existiert mehrere Jahre danach immer noch.
