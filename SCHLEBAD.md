@@ -1,6 +1,6 @@
 # SCHLEBAD - Schlechte Beispiele aus Digitalisierungsprojekten
 
-letzte Änderung: 14.06.2022 15:45
+letzte Änderung: 15.06.2022 16:45
 
 
 | Nr   | Titel                                                                                   | Stichworte                           | Datum           |
