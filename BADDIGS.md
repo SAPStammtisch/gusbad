@@ -1,7 +1,11 @@
 # BADDIGGS - Beispiele aus Digitalsierungsprojekten, die gut gelaufen sind ...
 
+letzte Änderung: 17.06.2022
 
-(im Aufbau)
+| Nr   | Titel                                                                                   | Stichworte                           | Datum           |
+|------| --------------------------------------------------------------------------------------- |--------------------------------------|-----------------|
+|      |                                                                                         |                                      | xx/2022         |
+
 
 ---
 
