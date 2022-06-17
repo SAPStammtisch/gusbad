@@ -1,12 +1,15 @@
 # Zitate 
 
-letzte Änderung: 15.06.2022 16:45
+letzte Änderung: 17.06.2022 14:30
+
+[#11](zitate/11_ms_excel.md)   
+{% include_relative zitate/11_ms_excel.md %}
 
 [#10](zitate/10_nn_excel.md)   
-{% include_relative zitate/10_10_nn_excel %}
+{% include_relative zitate/10_nn_excel.md %}
 
 [#9](zitate/9_nn_transformation.md)   
-{% include_relative zitate/9_nn_transformation %}
+{% include_relative zitate/9_nn_transformation.md %}
 
 [#8](zitate/8_nn_rakete.md)   
 {% include_relative zitate/8_nn_rakete.md %}
