@@ -2,6 +2,9 @@
 
 letzte Änderung: 19.06.2022 16:00
 
+[#17](zitate/17_dueck_schwimmen.md)   
+{% include_relative zitate/17_dueck_schwimmen.md %}
+
 [#16](zitate/16_lotter_wissensgesellschaft.md)   
 {% include_relative zitate/16_lotter_wissensgesellschaft.md %}
 
