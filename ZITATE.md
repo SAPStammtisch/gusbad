@@ -1,6 +1,6 @@
 # Zitate, die irgendwas mit Digitalisierung zu tun haben
 
-letzte Änderung: 19.06.2022 16:00
+letzte Änderung: 19.06.2022 16:30
 
 [#19](zitate/19_mazaheri_sap_projekt.md)   
 {% include_relative zitate/19_mazaheri_sap_projekt.md %}
