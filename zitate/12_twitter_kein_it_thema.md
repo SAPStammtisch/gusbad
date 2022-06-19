@@ -1,0 +1,2 @@
+***"Digitalisierung ist kein IT Thema... und kostet einen großen Teil des (ungeplanten) Budgets. Dieses "Leute wollen mitgenommen werden" gibt es nicht für lau..."***   
+([Twitter](https://twitter.com/LingenSap/status/1531336093521649664))

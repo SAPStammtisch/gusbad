@@ -1,6 +1,9 @@
 # Zitate 
 
-letzte Änderung: 17.06.2022 14:30
+letzte Änderung: 19.06.2022 12:30
+
+[#12](zitate/12_twitter_kein_it_thema.md)   
+{% include_relative zitate/12_twitter_kein_it_thema.md %}
 
 [#11](zitate/11_ms_excel.md)   
 {% include_relative zitate/11_ms_excel.md %}
