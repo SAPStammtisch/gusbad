@@ -2,6 +2,9 @@
 
 letzte Änderung: 19.06.2022 16:00
 
+[#17](zitate/18_lenin_lernen.md)   
+{% include_relative zitate/18_lenin_lernen.md %}
+
 [#17](zitate/17_dueck_schwimmen.md)   
 {% include_relative zitate/17_dueck_schwimmen.md %}
 
