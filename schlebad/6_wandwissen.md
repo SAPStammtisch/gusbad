@@ -12,6 +12,7 @@ Das war natürlich ein Show-Stopper für die Digitalisierung des gewünschten In
 
 Die Diskussionen liefen mehrere Monate. Das Vorhaben wurde schließlich ergebnislos abgebrochen.
 
-Was ist so schwer daran zu verstehen, dass in einem solchen digitalisierten Prozess mit Echtzeitanforderungen ein Mensch nichts zu suchen hat? Es mag ja sein, dass diese Tabelle wertvolles Wissen der Organisation abbildet und seit Generationen wie ein Heiligtum verehrt werden muss. Muss man aber deshalb die Wettbewerbsfähigkeit des Unternehmens riskieren und sich vom technischen Fortschritt ausschließen? Die gleichen Personen, die sich in ihrem Unternehmen so verhalten, haben wahrscheinlich privat sehr hohe Anforderungen an ihre Lieferanten (im Internet)?! 
+Was ist so schwer daran zu verstehen, dass in einem solchen digitalisierten Prozess mit Echtzeitanforderungen ein Mensch nichts zu suchen hat? Es mag ja sein, dass diese Tabelle wertvolles Wissen der Organisation abbildet und seit Generationen wie ein Heiligtum verehrt werden muss. Muss man aber deshalb die Wettbewerbsfähigkeit des Unternehmens riskieren und sich vom technischen Fortschritt ausschließen? Oder handelt es sich hier um eine Sondermaßnahme, um die Mitarbeiter fit zu halten?
+Die gleichen Personen, die sich in ihrem Unternehmen so verhalten, haben wahrscheinlich privat sehr hohe Anforderungen an ihre Lieferanten (im Internet)?! 
 
 {% include_relative FOOTER.md %}
