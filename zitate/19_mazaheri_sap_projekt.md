@@ -1,0 +1,2 @@
+***"Bei IT-Projekten geht es nicht nur um Technologie. Das ist keine Aufgabe, um die sich allein die IT-Abteilung kümmert und dann ist es gut. Das wäre – speziell bei Großprojekten – geradezu dramatisch falsch. Das sind strategische Themen, die Aufmerksamkeit und Engagement der Führungsebene brauchen. Nur hin und wieder auf ein paar Ampeln zum Projektzustand zu schauen, reicht nicht."***  
+(Fredun Mazaheri, HSBC im [WiWo Interview](https://www.wiwo.de/unternehmen/it/hsbc-risikovorstand-einen-kompletten-arbeitstag-in-der-woche-fuer-das-sap-projekt-reserviert/24091710.html))

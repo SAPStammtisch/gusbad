@@ -2,7 +2,10 @@
 
 letzte Änderung: 19.06.2022 16:00
 
-[#17](zitate/18_lenin_lernen.md)   
+[#19](zitate/19_mazaheri_sap_projekt.md)   
+{% include_relative zitate/19_mazaheri_sap_projekt.md %}
+
+[#18](zitate/18_lenin_lernen.md)   
 {% include_relative zitate/18_lenin_lernen.md %}
 
 [#17](zitate/17_dueck_schwimmen.md)   
