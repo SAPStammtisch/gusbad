@@ -2,6 +2,9 @@
 
 letzte Änderung: 19.06.2022 16:00
 
+[#16](zitate/16_lotter_wissensgesellschaft.md)   
+{% include_relative zitate/16_lotter_wissensgesellschaft.md %}
+
 [#15](zitate/15_lotter_komplexitaet.md)   
 {% include_relative zitate/15_lotter_komplexitaet.md %}
 
