@@ -1,0 +1,2 @@
+***"Die alte Welt wollte Komplexität immer nur reduzieren. Die neue erschließt sie."***  
+(Wolf Lotter in [brandeins "Der Durchblick"](https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2019/komplexitaet/der-durchblick))

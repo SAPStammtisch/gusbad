@@ -1,0 +1,1 @@
+***"Wir haben durch dieses (erfolgreiche Digitalisierungs-)Projekt erreicht, dass inzwischen Personen miteinander reden, die vorher noch nicht einmal etwas voneinander wussten."***  

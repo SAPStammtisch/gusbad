@@ -1,8 +1,12 @@
 # Zitate, die irgendwas mit Digitalisierung zu tun haben
 
-letzte Änderung: 19.06.2022 12:30
+letzte Änderung: 19.06.2022 16:00
 
+[#15](zitate/15_lotter_komplexitaet.md)   
+{% include_relative zitate/15_lotter_komplexitaet.md %}
 
+[#14](zitate/14_nn_projekt_personen_reden.md)   
+{% include_relative zitate/14_nn_projekt_personen_reden.md %}
 
 [#13](zitate/13_wittmann_projekte.md)   
 {% include_relative zitate/13_wittmann_projekte.md %}
