@@ -1,10 +1,11 @@
 # SCHLEBAD - Schlechte Beispiele aus Digitalisierungsprojekten
 
-letzte Änderung: 17.06.2022 15:45
+letzte Änderung: 19.06.2022 12:00
 
 
 | Nr   | Titel                                                                                   | Stichworte                           | Datum           |
 |------| --------------------------------------------------------------------------------------- |--------------------------------------|-----------------|
+|    6 | [Wandwissen](/schlebad/6_wandwissen.md)                                                 | Internet, Shop, Excel                | 06/2022         |
 |    5 | [Mein Excel muss stimmen](/schlebad/5_excel_vertrauen.md)                               | Excel, Zahlen, Vertrauen             | 06/2022         |
 |    4 | [Der Chef-Konstrukteur](/schlebad/4_chef_konstrukteur.md)                               | Produktion, Konstruktion, Daten      | 06/2022         |
 |    3 | [Kreditlimitprüfung - Manche Dinge sind eben wichtiger](/schlebad/3_kreditlimit.md)     | Verkauf, Kunde, Macht, Klebezettel   | 06/2022         |
