@@ -1,6 +1,11 @@
-# Zitate 
+# Zitate, die irgendwas mit Digitalisierung zu tun haben
 
 letzte Änderung: 19.06.2022 12:30
+
+
+
+[#13](zitate/13_wittmann_projekte.md)   
+{% include_relative zitate/13_wittmann_projekte.md %}
 
 [#12](zitate/12_twitter_kein_it_thema.md)   
 {% include_relative zitate/12_twitter_kein_it_thema.md %}

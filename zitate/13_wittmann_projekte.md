@@ -1,0 +1,2 @@
+***"Digitalprojekte sind immer Produkte. Davon baut man eine erste Version und arbeitet darauf iterativ weiter. Gerade Basisinfrastruktur ist nie fertig."***   
+(Lilith Wittmann im [c't Interview](https://www.heise.de/news/Krawall-Influencerin-Lilith-Wittmann-Baut-intern-Kompetenz-auf-6335264.html))
