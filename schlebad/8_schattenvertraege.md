@@ -9,6 +9,6 @@ Nach einigen Jahren stellte sich allerdings heraus, dass Kunden beispielsweise b
 Diese Fälle wurden untersucht und es stellte sich folgendes heraus: 
 Die generierten Vetragsdokumente wurden sicher abgelegt und dann dem Vertrieb ausgehändigt. Dieser führte dann die Verhandlungen mit den Kunden und es wurden des Öfteren einige Passagen angepasst. Allerdings wurden diese veränderten Verträge dann nicht immer dem Unternehmen zur Verfügung gestellt. Bemerkt und und eingefordert wurde es nicht.
 
-Man konnte den betroffenen Vertriebsmitarbeitern nicht wirklich Absicht unterstellen. Allerdings gab es doch eine "gewisse Fluktuation" im Vertrieb. D.h. wenn solche Dinge aufgefallen sind, waren die Verursacher meistens nicht mehr im Unternehmen...
+Man konnte den betroffenen Vertriebsmitarbeitern nicht wirklich Absicht unterstellen. Allerdings gab es doch eine "gewisse Fluktuation" im Vertrieb. D.h. wenn solche Dinge aufgefallen sind, waren die Verursacher meistens nicht mehr im Unternehmen. Bei den üblichen Provisionen durchaus ein lukratives Modell?! 
 
 Ein schönes Beispiel, wenn wir mal wieder über "das große Ganze" reden? Eine andere Metapher wäre, dass ein "Getriebe nicht rund läuft, wenn einzelne Zahnräder machen (können), was sie wollen".
