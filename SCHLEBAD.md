@@ -1,10 +1,11 @@
 # SCHLEBAD - Schlechte Beispiele aus Digitalisierungsprojekten
 
-letzte Änderung: 19.06.2022 12:15
+letzte Änderung: 22.06.2022 14:00
 
 
 | Nr   | Titel                                                                                   | Stichworte                           | Datum           |
 |------| --------------------------------------------------------------------------------------- |--------------------------------------|-----------------|
+|    8 | [Schattenverträge](/schlebad/8_schattenvertraege.md)                                    | Vertrieb, Verträge                   | 06/2022         |
 |    7 | [Stromschläge](/schlebad/7_stromschlaege.md)                                            | Call Center, Support, Telefon        | 06/2022         |
 |    6 | [Wandwissen](/schlebad/6_wandwissen.md)                                                 | Internet, Shop, Excel                | 06/2022         |
 |    5 | [Mein Excel muss stimmen](/schlebad/5_excel_vertrauen.md)                               | Excel, Zahlen, Vertrauen             | 06/2022         |
