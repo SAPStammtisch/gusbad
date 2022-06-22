@@ -1,6 +1,8 @@
 # BADDIGGS - Beispiele aus Digitalsierungsprojekten, die gut gelaufen sind ...
 
-letzte Änderung: 17.06.2022
+Hier sammeln wir gute Beispiele, Erfahrungen, Anregungen, Tipps, ...
+
+letzte Änderung: 22.06.2022
 
 | Nr   | Titel                                                                                   | Stichworte                           | Datum           |
 |------| --------------------------------------------------------------------------------------- |--------------------------------------|-----------------|
