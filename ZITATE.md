@@ -1,6 +1,6 @@
 # Zitate, die irgendwas mit Digitalisierung zu tun haben
 
-letzte Änderung: 19.06.2022 16:30
+letzte Änderung: 23.06.2022 08:40
 
 [#20](zitate/20_nn_veraendern_fuer_das_ist.md)   
 {% include_relative zitate/20_nn_veraendern_fuer_das_ist.md %}
