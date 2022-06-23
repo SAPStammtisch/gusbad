@@ -2,6 +2,9 @@
 
 letzte Änderung: 19.06.2022 16:30
 
+[#20](zitate/20_nn_veraendern_fuer_das_ist.md)   
+{% include_relative zitate/20_nn_veraendern_fuer_das_ist.md %}
+
 [#19](zitate/19_mazaheri_sap_projekt.md)   
 {% include_relative zitate/19_mazaheri_sap_projekt.md %}
 
