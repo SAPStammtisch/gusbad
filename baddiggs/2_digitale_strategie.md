@@ -4,7 +4,7 @@ Dieses Beispiel stammt aus einem mittelständischen deutschen Unternehmen, welch
 
 Nach einem Geschäftsführerwechsel wurden Vertreter aller Abteilungen vom neuen Geschäftsführer zu einem zweitägien Workshop geladen. Dort stellte er seine seine Visionen vor, die noch Jahre später Leitbild für alle Projekte, Produkte und sonstigen Aktivitäten sein sollte. 
 
-***"Ich möchte, dass:
+"Ich möchte, dass:
 - jeder Mitarbeiter mit Kundenkontakt ein digitales Werkzeug nutzt, mit dem wir die Kundenkontakte sofort erfassen, bearbeiten und nachverfolgen können
 - wir 90% der möglichen Anliegen des Kunden sofort und die restlichen 10% so schnell wie möglich erfüllen
 - kein Vorgang liegen bleibt oder sogar vergessen wird
@@ -13,7 +13,7 @@ Nach einem Geschäftsführerwechsel wurden Vertreter aller Abteilungen vom neuen
 - wir den Kunden genau zuhören, wenn sie uns etwas über ihre Erwartungen mitteilen wollen bzw. dass wir sie sogar aktiv fragen
 - unsere Produkte den Mitbewerbern immer einen Schritt voraus sind und deshalb technologische Trends und Entwicklungen frühzeitig in die Produktentwicklung einfließen sollen
 - ...
-"***
+"
 
 Nachdem er seine Gedanken geteilt hatte, wurde zwei Tage intensiv diskutiert. Jeder kam zu Wort und konnte seine Gedanken frei äußern. Allein der erste Teil ***"... jeder Mitarbeiter mit Kundenkontakt ein digitales Werkzeug nutzt..."*** hatte bereits weitreichende Konsequenzen, da bei diesem Unternehmen auch Pförtner, Auszubildene u.a. solche Kundenkontakte haben konnten. Kundenkontakte gab es im Ladengeschäft, am Telefon, im Internet, durch Zeitschriften ... 
 
