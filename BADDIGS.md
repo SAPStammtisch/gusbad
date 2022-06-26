@@ -2,11 +2,11 @@
 
 Hier sammeln wir gute Beispiele, Erfahrungen, Anregungen, Tipps, ...
 
-letzte Änderung: 22.06.2022
+letzte Änderung: 26.06.2022
 
 | Nr   | Titel                                                                                   | Stichworte                           | Datum           |
 |------| --------------------------------------------------------------------------------------- |--------------------------------------|-----------------|
-|      |                                                                                         |                                      | xx/2022         |
+|    1 | [Die Frage nach dem Warum](baddiggs/1_warum.md)                                         | Argumentation, Begriffsklärung       | 06/2022         |
 
 
 ---
