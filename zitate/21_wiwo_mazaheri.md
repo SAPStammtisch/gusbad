@@ -1,2 +1,2 @@
 ***"Zu wenig interne und zu viel externe Kompetenz, die ein IT-Großprojekt stemmen soll. Unternehmen neigen dazu, sich für große Tech-Projekte zu viele Fachleute von außen zu holen und zu wenig eigene Kompetenzen aufzubauen...Ein Drittel Externe. Maximal."***  
-([Fredun Mazaheri](https://www.wiwo.de/unternehmen/it/hsbc-risikovorstand-einen-kompletten-arbeitstag-in-der-woche-fuer-das-sap-projekt-reserviert/24091710.html))
+([Fredun Mazaheri, HSBC Risikovorstand in der Wirtschaftswoche](https://www.wiwo.de/unternehmen/it/hsbc-risikovorstand-einen-kompletten-arbeitstag-in-der-woche-fuer-das-sap-projekt-reserviert/24091710.html))
