@@ -2,7 +2,7 @@
 
 Im Sommer 2018 ging es durch die Medien: "SAP Einführung bei Lidl nach 7 Jahren und geschätzten Kosten von 500 Mio Euro gestoppt.". 
 
-Das war natürlich ein Aufreger und für viele ein weiteres Beispiel, dass es mit großen IT Projekten "nicht ganz so leicht ist". Natürlich war hier und da auch Schadenfreude zu vernehmen ud für die Mitbewerber war das natürlich ein gefundenes Fressen.
+Das war natürlich ein Aufreger und für viele ein weiteres Beispiel, dass es mit großen IT Projekten "nicht ganz so leicht ist". Natürlich war hier und da auch Schadenfreude zu vernehmen und für die Marktbegleiter der SAP war das natürlich ein gefundenes Fressen.
 
 ## Die Hintergründe
 
@@ -18,7 +18,7 @@ Fairerweise muss man sagen, dass seitens Lidl keine direkten Vorwürfe gegen die
 
 ## Einige Wahrheiten über IT- und Transformationsprojekte
 
-Im [Interview mit der Wirtschaftswoche](https://www.wiwo.de/unternehmen/it/hsbc-risikovorstand-einen-kompletten-arbeitstag-in-der-woche-fuer-das-sap-projekt-reserviert/24091710.html) gibt der HSBC Risikovorstand Fredun Mazaheri interessante Einblicke in sein eigenes SAP Projekt und zählt einige Lessons Learned auf. Diese werden hier in Auszügen zitiert.
+Im [Interview mit der Wirtschaftswoche](https://www.wiwo.de/unternehmen/it/hsbc-risikovorstand-einen-kompletten-arbeitstag-in-der-woche-fuer-das-sap-projekt-reserviert/24091710.html) gibt der HSBC Risikovorstand Fredun Mazaheri interessante Einblicke in sein eigenes SAP Projekt und zählt einige Lessons Learned auf. Diese werden hier in Auszügen zitiert, weil sie recht gut zum Lidl Projekt passen.
 
 *"Bei IT-Projekten geht es nicht nur um Technologie. Das ist keine Aufgabe, um die sich allein die IT-Abteilung kümmert und dann ist es gut. Das wäre – speziell bei Großprojekten – geradezu dramatisch falsch. Das sind strategische Themen, die Aufmerksamkeit und Engagement der Führungsebene brauchen. Nur hin und wieder auf ein paar Ampeln zum Projektzustand zu schauen, reicht nicht."*
 
