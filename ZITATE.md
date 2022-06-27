@@ -1,6 +1,9 @@
 # Zitate, die irgendwas mit Digitalisierung zu tun haben
 
-letzte Änderung: 23.06.2022 08:40
+letzte Änderung: 27.06.2022 19:00
+
+[#21](zitate/21_wiwo_mazaheri.md)   
+{% include_relative zitate/21_wiwo_mazaheri.md %}
 
 [#20](zitate/20_nn_veraendern_fuer_das_ist.md)   
 {% include_relative zitate/20_nn_veraendern_fuer_das_ist.md %}
