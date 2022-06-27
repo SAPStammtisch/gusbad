@@ -2,10 +2,11 @@
 
 Hier sammeln wir gute Beispiele, Erfahrungen, Anregungen, Tipps, ...
 
-letzte Änderung: 26.06.2022
+letzte Änderung: 27.06.2022 20:00
 
 | Nr   | Titel                                                                                   | Stichworte                           | Datum           |
 |------| --------------------------------------------------------------------------------------- |--------------------------------------|-----------------|
+|    3 | [Der Kundenlebenszyklus](baddiggs/3_klz.md)                                             | Anregung, Vorgehensweise             | 06/2022         |
 |    2 | [Wie formuliert man eine digitale Strategie?](baddiggs/2_digitale_strategie.md)         | Ziele, Leitbild, Vorgehensweise      | 06/2022         |
 |    1 | [Die Frage nach dem Warum](baddiggs/1_warum.md)                                         | Argumentation, Begriffsklärung       | 06/2022         |
 
