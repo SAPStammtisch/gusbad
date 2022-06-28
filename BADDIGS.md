@@ -1,4 +1,4 @@
-# BADDIGGS - Beispiele aus Digitalsierungsprojekten, die gut gelaufen sind ...
+# BADDIGGS - Beispiele aus Digitalisierungsprojekten, die gut gelaufen sind ...
 
 Hier sammeln wir gute Beispiele, Erfahrungen, Anregungen, Tipps, ...
 
@@ -6,7 +6,7 @@ letzte Änderung: 28.06.2022 17:30
 
 | Nr   | Titel                                                                                   | Stichworte                           | Datum           |
 |------| --------------------------------------------------------------------------------------- |--------------------------------------|-----------------|
-|    4 | [Handlungsfelder der Digitalisierung](baddiggs/5_handlungsfelder.md)                    | Anregung, Methodik, Argumentation    | 06/2022         |
+|    5 | [Handlungsfelder der Digitalisierung](baddiggs/5_handlungsfelder.md)                    | Anregung, Methodik, Argumentation    | 06/2022         |
 |    4 | [Wie sortiert man Komplexität?](baddiggs/4_komplexitaet_sortieren.md)                   | Anregung, Vorgehensweise             | 06/2022         |
 |    3 | [Der Kundenlebenszyklus](baddiggs/3_klz.md)                                             | Anregung, Vorgehensweise             | 06/2022         |
 |    2 | [Wie formuliert man eine digitale Strategie?](baddiggs/2_digitale_strategie.md)         | Ziele, Leitbild, Vorgehensweise      | 06/2022         |
