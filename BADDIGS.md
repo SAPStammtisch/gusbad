@@ -2,10 +2,11 @@
 
 Hier sammeln wir gute Beispiele, Erfahrungen, Anregungen, Tipps, ...
 
-letzte Änderung: 27.06.2022 20:00
+letzte Änderung: 28.06.2022 15:30
 
 | Nr   | Titel                                                                                   | Stichworte                           | Datum           |
 |------| --------------------------------------------------------------------------------------- |--------------------------------------|-----------------|
+|    4 | [Wie sortiert man Komplexität?](baddiggs/4_komplexitaet_sortieren.md)                   | Anregung, Vorgehensweise             | 06/2022         |
 |    3 | [Der Kundenlebenszyklus](baddiggs/3_klz.md)                                             | Anregung, Vorgehensweise             | 06/2022         |
 |    2 | [Wie formuliert man eine digitale Strategie?](baddiggs/2_digitale_strategie.md)         | Ziele, Leitbild, Vorgehensweise      | 06/2022         |
 |    1 | [Die Frage nach dem Warum](baddiggs/1_warum.md)                                         | Argumentation, Begriffsklärung       | 06/2022         |
