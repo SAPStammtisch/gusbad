@@ -1,0 +1,1 @@
+***"Der Begriff 'Kompetenz' wird sehr unterschiedlich interpretiert. Die meisten bringen ihn mit 'Erfahrung' in Verbindung. Fragt man Personen aus Politik, öffentlichen Dienst oder Großunternehmen, dann wird Kompetenz eher mit Entscheidungsgewalt, Macht o.ä. interpretiert. Für die Digitalisierung ist es sehr gefährlich, wenn Entscheidungen ohne Erfahrung gefällt werden."*** 
