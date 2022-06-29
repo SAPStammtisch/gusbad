@@ -6,10 +6,10 @@ Dr. Kian Mossanen von DRÄXLMAIER hielt dort die Keynote "Der CIO in Action! Han
 
 ![Video Vorschau](5_handlungsfelder_video.jpg)  
 
-Ab Minute 20 geht er für ca. 5 Minuten auf die hier thematisierten "Handlungsfelder der Digitalisierung" ein. 5 Minuten, die zu empfehlen sind.  
+Ab Minute 20 geht er für ca. 5 Minuten auf die hier thematisierten "Handlungsfelder der Digitalisierung" ein. 5 Minuten (und ggf. mehr), die zu empfehlen sind.  
 
 
-## Deutsche Version 
+## Handlungsfelder - Deutsche Adaption
 
 Für den SAP Stammtisch haben wir uns aus diesem Vortrag bedient und die dort präsentierte Folie eingedeutscht. Das war leider notwendig, weil der Foliensatz der DSAG Keynote im Nachgang zwar verfügbar war, aber diese interessante (englische) Folie leider fehlte. 
 
