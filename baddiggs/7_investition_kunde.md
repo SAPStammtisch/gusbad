@@ -8,7 +8,7 @@ Bei der prämierten Lösung "RUD-ID-NET" handelt es sich um ein Cloud-basiertes 
 
 ## Hintergrundinformationen
 
-RUD hat sehr zeitnah angefangen, über die [RFID Technologie](https://de.wikipedia.org/wiki/RFID) die eigenen Produkte identifizierbar zu machen. D.h. in und an den Produkten wurden RFID Chips oder Anhänger angebracht (siehe Bild).
+RUD hat sehr früh angefangen, über die [RFID Technologie](https://de.wikipedia.org/wiki/RFID) die eigenen Produkte identifizierbar zu machen. D.h. in und an den Produkten wurden RFID Chips oder Anhänger angebracht (siehe Bild).
 
 ![RUD RFID](7_rud_rfid.jpg)
 
