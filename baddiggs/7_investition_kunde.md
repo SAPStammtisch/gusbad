@@ -24,7 +24,7 @@ Heute bietet RUD sogar eine [eigene App für Android und iOS](https://www.rud.co
 ## Kommentar
 
 Zitat aus dem [Computerwoche Beitrag](https://www.computerwoche.de/a/pruefservice-rud-id-net-schafft-mehrwert-fuer-rud-ketten,2545719) zur Lösung:  
-*Es wurde zunächst als Speziallösung für die prüfrelevanten Produkte von RUD Ketten konzipiert. Aufgrund des großen Interesses der RUD Kunden bauten die Entwickler das System während der Projektphase zu einem produktunabhängigen, weltweit für alle prüfrelevanten Bauteile einsetzbaren Prüfmanagement-System aus."*.
+*"Es wurde zunächst als Speziallösung für die prüfrelevanten Produkte von RUD Ketten konzipiert. Aufgrund des großen Interesses der RUD Kunden bauten die Entwickler das System während der Projektphase zu einem produktunabhängigen, weltweit für alle prüfrelevanten Bauteile einsetzbaren Prüfmanagement-System aus."*.
 
 Bereits in einer Phase, als der spätere Erfolg noch nicht absehbar war, wurde in den Kunden investiert und bewusst Mehrwerte für ihn geschaffen. Der Nutzen für RUD besteht in einer hohen Kundenzufriedenheit und Kundenbindung. Wenn die RUD Kunden ihre Daten in die Portallösung erst einmal eingegeben haben, wechseln sie so schnell nicht mehr. Dafür war RUD bereit, die Lösung auch für Mitbewerber und fremde Produkte zu öffnen.
 
