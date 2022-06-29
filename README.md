@@ -14,11 +14,11 @@ Wir denken nein und wollen hier auf dieser Seite anonymisierte Beispiele sammeln
 Jeder kann zu dieser Seite etwas beitragen. Wie das geht, erklären wir etwas weiter unten auf dieser Seite.   
 
 
-## Hier geht es zu den Beispielen (SCHLEBAD, BADDIGGS, Zitate) 
+## HIER geht es zu den Beispielen (SCHLEBAD, BADDIGGS, Zitate) 
 
 Wir unterscheiden derzeit:
 - [Schlechte Beispiele](SCHLEBAD.md) (#SCHLEBAD - Schlechte Beispiele aus Digitalsierungsprojekten)
-- [Gute Beispiele](BADDIGS.md) (#BADDIGGS - Beispiele aus Digitalisierungsprojekten, die gut gelaufen sind)
+- [Gute Beispiele](BADDIGS.md) (#BADDIGGS - Beispiele aus Digitalisierungsprojekten, die gut gelaufen sind - Beispiele, Argumentationshilfen, Tipps)
 - [Zitate](ZITATE.md) aus unterschiedlichen Quellen, die irgendwas mit der Digitalisierung zu tun haben
 
 
@@ -53,4 +53,4 @@ Wir versuchen, alle uns zugearbeiteten Informationen inhaltlich und auf Plausibi
 Vielen Dank! 
 
 ---
-letzte Änderung: 17.06.2022 20:15
+letzte Änderung: 29.06.2022 20:15
