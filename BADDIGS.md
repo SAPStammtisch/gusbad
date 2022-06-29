@@ -6,6 +6,7 @@ letzte Änderung: 29.06.2022
 
 | Nr   | Titel                                                                                   | Stichworte                           | Datum           |
 |------| --------------------------------------------------------------------------------------- |--------------------------------------|-----------------|
+|    7 | [In den Kunden investieren - Beispiel RUD](baddiggs/7_investition_kunde.md)             | Projekt, Beispiel, Cloud, RFID       | 06/2022         |
 |    6 | [Wie sieht ein ideales Team aus?](baddiggs/6_ideales_team.md)                           | Ziele, Argumentation, Methodik       | 06/2022         |
 |    5 | [Handlungsfelder der Digitalisierung](baddiggs/5_handlungsfelder.md)                    | Anregung, Methodik, Argumentation    | 06/2022         |
 |    4 | [Wie sortiert man Komplexität?](baddiggs/4_komplexitaet_sortieren.md)                   | Anregung, Vorgehensweise             | 06/2022         |
