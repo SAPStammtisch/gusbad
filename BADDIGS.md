@@ -2,10 +2,11 @@
 
 Hier sammeln wir gute Beispiele, Erfahrungen, Anregungen, Tipps, ...
 
-letzte Änderung: 28.06.2022 17:30
+letzte Änderung: 29.06.2022
 
 | Nr   | Titel                                                                                   | Stichworte                           | Datum           |
 |------| --------------------------------------------------------------------------------------- |--------------------------------------|-----------------|
+|    6 | [Wie sieht ein ideales Team aus?](baddiggs/6_ideales_team.md)                           | Ziele, Argumentation, Methodik       | 06/2022         |
 |    5 | [Handlungsfelder der Digitalisierung](baddiggs/5_handlungsfelder.md)                    | Anregung, Methodik, Argumentation    | 06/2022         |
 |    4 | [Wie sortiert man Komplexität?](baddiggs/4_komplexitaet_sortieren.md)                   | Anregung, Vorgehensweise             | 06/2022         |
 |    3 | [Der Kundenlebenszyklus](baddiggs/3_klz.md)                                             | Anregung, Vorgehensweise             | 06/2022         |
