@@ -6,6 +6,7 @@ letzte Änderung: 03.07.2022
 
 | Nr   | Titel                                                                                   | Stichworte                           | Datum           |
 |------| --------------------------------------------------------------------------------------- |--------------------------------------|-----------------|
+|    9 | [Der FC Bayern Hackathon](baddiggs/9_fcb_hackathon.md)                                  | Hackathon, Kultur, Sport             | 07/2022         |
 |    8 | [Der Experte - Comedy Sketch](baddiggs/8_der_experte.md)                                | Meeting, Kultur, Satire              | 07/2022         |
 |    7 | [In den Kunden investieren - Beispiel RUD](baddiggs/7_investition_kunde.md)             | Projekt, Beispiel, Cloud, RFID       | 06/2022         |
 |    6 | [Wie sieht ein ideales Team aus?](baddiggs/6_ideales_team.md)                           | Ziele, Argumentation, Methodik       | 06/2022         |
