@@ -1,10 +1,11 @@
 # SCHLEBAD - Schlechte Beispiele aus Digitalisierungsprojekten
 
-letzte Änderung: 05.07.2022
+letzte Änderung: 06.07.2022
 
 
 | Nr   | Titel                                                                                   | Stichworte                           | Datum           |
 |------| --------------------------------------------------------------------------------------- |--------------------------------------|-----------------|
+|   11 | [Bedrohung](/schlebad/11_bedrohung.md)                                                  | Projekt, Macht, Bürokratie           | 07/2022         |
 |   10 | [Einzeit im Vertrieb](/schlebad/10_eiszeit.md)                                          | Projekt, Ignoranz, Demotivation      | 07/2022         |
 |    9 | [Die gescheiterte SAP Einführung bei Lidl](/schlebad/9_sap_lidl.md)                     | SAP, Projekt, Lessons Learned        | 06/2022         |
 |    8 | [Schattenverträge](/schlebad/8_schattenvertraege.md)                                    | Vertrieb, Verträge                   | 06/2022         |
