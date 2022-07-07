@@ -1,4 +1,4 @@
-# Bedrohungen
+# Bedrohung
 
 Dieses Schlebad spielt in einem Unternehmen, welches sich verändern wollte. Es hatte erkannt, dass die bisherigen Geschäftsmodelle immer weniger Umsatz einbrachten und man sich neue Themen, Produkte u.ä. aufbauen musste. Die Mitarbeiter wurden darauf eingestimmt, dass Veränderungen anstehen und aufgerufen, sich aktiv daran zu beteiligen. Es wurde Wert darauf gelegt, die Möglichkeiten der Digitalisierung mitzubetrachten und nicht nur mit dem "klassischen Blick" neue Ideen zu entwickeln.
 
