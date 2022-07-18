@@ -2,6 +2,9 @@
 
 letzte Änderung: 18.07.2022
 
+[#26](zitate/26_arden_problem.md)   
+{% include_relative zitate/26_arden_problem.md %}
+
 [#25](zitate/25_einstein_planung.md)   
 {% include_relative zitate/25_einstein_planung.md %}
 
