@@ -1,6 +1,9 @@
 # Zitate, die irgendwas mit Digitalisierung zu tun haben
 
-letzte Änderung: 15.07.2022
+letzte Änderung: 18.07.2022
+
+[#24](zitate/24_formulare.md)   
+{% include_relative zitate/24_formulare.md %}
 
 [#23](zitate/23_sap_roth_erp.md)   
 {% include_relative zitate/23_sap_roth_erp.md %}
