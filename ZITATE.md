@@ -2,6 +2,9 @@
 
 letzte Änderung: 18.07.2022
 
+[#25](zitate/25_einstein_planung.md)   
+{% include_relative zitate/25_einstein_planung.md %}
+
 [#24](zitate/24_formulare.md)   
 {% include_relative zitate/24_formulare.md %}
 
