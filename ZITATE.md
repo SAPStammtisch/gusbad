@@ -2,6 +2,9 @@
 
 letzte Änderung: 18.07.2022
 
+[#27](zitate/27_michelangelo_ziele.md)   
+{% include_relative zitate/27_michelangelo_ziele.md %}
+
 [#26](zitate/26_arden_problem.md)   
 {% include_relative zitate/26_arden_problem.md %}
 
