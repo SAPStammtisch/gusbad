@@ -5,6 +5,7 @@ letzte Änderung: 18.09.2022
 
 | Nr   | Titel                                                                                   | Stichworte                           | Datum           |
 |------| --------------------------------------------------------------------------------------- |--------------------------------------|-----------------|
+|   14 | [Mathematik](/schlebad/14_mathematik.md)                                                | Mathematik, Prozesse, Veränderungen  | 09/2022         |
 |   13 | [Wundermittel Blockchain?!](/schlebad/13_blockchain.md)                                 | Blockchain, Verwaltung, Projekte     | 09/2022         |
 |   12 | [Bürokratie: Mit analoger Wucht](/schlebad/12_analoge_wucht.md)                         | Bürokratie, Formulare, Ukraine       | 07/2022         |
 |   11 | [Bedrohung](/schlebad/11_bedrohung.md)                                                  | Projekt, Macht, Bürokratie           | 07/2022         |
