@@ -1,6 +1,9 @@
 # Zitate, die irgendwas mit Digitalisierung zu tun haben
 
-letzte Änderung: 18.07.2022
+letzte Änderung: 18.09.2022
+
+[#28](zitate/28_innovation_israel.md)   
+{% include_relative zitate/28_innovation_israel.md %}
 
 [#27](zitate/27_michelangelo_ziele.md)   
 {% include_relative zitate/27_michelangelo_ziele.md %}
