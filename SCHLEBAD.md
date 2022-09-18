@@ -1,10 +1,11 @@
 # SCHLEBAD - Schlechte Beispiele aus Digitalisierungsprojekten
 
-letzte Änderung: 18.07.2022
+letzte Änderung: 18.09.2022
 
 
 | Nr   | Titel                                                                                   | Stichworte                           | Datum           |
 |------| --------------------------------------------------------------------------------------- |--------------------------------------|-----------------|
+|   13 | [Wundermittel Blockchain?!](/schlebad/13_blockchain.md)                                 | Blockchain, Verwaltung, Projekte     | 09/2022         |
 |   12 | [Bürokratie: Mit analoger Wucht](/schlebad/12_analoge_wucht.md)                         | Bürokratie, Formulare, Ukraine       | 07/2022         |
 |   11 | [Bedrohung](/schlebad/11_bedrohung.md)                                                  | Projekt, Macht, Bürokratie           | 07/2022         |
 |   10 | [Einzeit im Vertrieb](/schlebad/10_eiszeit.md)                                          | Projekt, Ignoranz, Demotivation      | 07/2022         |
