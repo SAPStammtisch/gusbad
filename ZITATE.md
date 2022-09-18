@@ -2,6 +2,9 @@
 
 letzte Änderung: 18.09.2022
 
+[#29](zitate/29_kuerzere_wege.md)   
+{% include_relative zitate/29_kuerzere_wege.md %}
+
 [#28](zitate/28_innovation_israel.md)   
 {% include_relative zitate/28_innovation_israel.md %}
 
