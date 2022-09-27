@@ -1,6 +1,9 @@
 # Zitate, die irgendwas mit Digitalisierung zu tun haben
 
-letzte Änderung: 18.09.2022
+letzte Änderung: 27.09.2022
+
+[#30](zitate/30_dilemma_standardsoftware.md)   
+{% include_relative zitate/30_dilemma_standardsoftware.md %}
 
 [#29](zitate/29_kuerzere_wege.md)   
 {% include_relative zitate/29_kuerzere_wege.md %}

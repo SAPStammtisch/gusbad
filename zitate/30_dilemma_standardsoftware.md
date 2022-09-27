@@ -1,0 +1,2 @@
+***"Den Kunden jeden Tag 20 Prozent unglücklich machen um ihn dann schlussendlich 100% Glücklich zu machen ... lasst es uns das 'Dilemma der Standardsoftwareeinführung' nennen."***   
+([Tweet](https://twitter.com/OSevangelist/status/1574494874270941212), SAP Stammtisch Magdeburg vom 26.09.2022)
