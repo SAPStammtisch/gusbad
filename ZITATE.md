@@ -2,6 +2,9 @@
 
 letzte Änderung: 17.10.2022
 
+[#36](zitate/36_dumont_google.md)   
+{% include_relative zitate/36_dumont_google.md %}
+
 [#35](zitate/35_olsen_computer.md)   
 {% include_relative zitate/35_olsen_computer.md %}
 
