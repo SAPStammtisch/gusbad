@@ -3,7 +3,7 @@
 letzte Änderung: 17.10.2022
 
 [#32](zitate/32_roentgen_strahlen.md)   
-{% include_relative zitate/32_32_roentgen_strahlen.md %}
+{% include_relative zitate/32_roentgen_strahlen.md %}
 
 [#31](zitate/31_kaiser_wilhelm_pferd.md)   
 {% include_relative zitate/31_kaiser_wilhelm_pferd.md %}
