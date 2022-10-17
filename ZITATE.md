@@ -2,6 +2,9 @@
 
 letzte Änderung: 17.10.2022
 
+[#34](zitate/34_zabuck_fernseher.md)   
+{% include_relative zitate/34_zabuck_fernseher.md %}
+
 [#33](zitate/33_watson_computer.md)   
 {% include_relative zitate/33_watson_computer.md %}
 
