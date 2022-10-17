@@ -2,6 +2,9 @@
 
 letzte Änderung: 17.10.2022
 
+[#37](zitate/37_ballmer_iphone.md)   
+{% include_relative zitate/37_ballmer_iphone.md %}
+
 [#36](zitate/36_dumont_google.md)   
 {% include_relative zitate/36_dumont_google.md %}
 
