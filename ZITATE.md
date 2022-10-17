@@ -1,6 +1,9 @@
 # Zitate, die irgendwas mit Digitalisierung zu tun haben
 
-letzte Änderung: 27.09.2022
+letzte Änderung: 17.10.2022
+
+[#31](zitate/31_kaiser_wilhelm_pferd.md)   
+{% include_relative zitate/31_kaiser_wilhelm_pferd.md %}
 
 [#30](zitate/30_dilemma_standardsoftware.md)   
 {% include_relative zitate/30_dilemma_standardsoftware.md %}
