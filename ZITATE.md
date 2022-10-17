@@ -2,6 +2,9 @@
 
 letzte Änderung: 17.10.2022
 
+[#35](zitate/35_olsen_computer.md)   
+{% include_relative zitate/35_olsen_computer.md %}
+
 [#34](zitate/34_zabuck_fernseher.md)   
 {% include_relative zitate/34_zabuck_fernseher.md %}
 
