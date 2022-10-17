@@ -2,6 +2,9 @@
 
 letzte Änderung: 17.10.2022
 
+[#33](zitate/33_watson_computer.md)   
+{% include_relative zitate/33_watson_computer.md %}
+
 [#32](zitate/32_roentgen_strahlen.md)   
 {% include_relative zitate/32_roentgen_strahlen.md %}
 
