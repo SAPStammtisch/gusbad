@@ -2,10 +2,11 @@
 
 Hier sammeln wir gute Beispiele, Erfahrungen, Anregungen, Tipps, ...
 
-letzte Änderung: 06.07.2022
+letzte Änderung: 31.10.2022
 
 | Nr   | Titel                                                                                   | Stichworte                           | Datum           |
 |------| --------------------------------------------------------------------------------------- |--------------------------------------|-----------------|
+|   11 | [Videoabend](baddiggs/11_videoabend.md)                                                 | Teambuilding, Anregung, Diskussion   | 10/2022         |
 |   10 | [Die Digitalisierung vernichtet Jobs?!](baddiggs/10_jobs.md)                            | Argumentation, Disruption            | 07/2022         |
 |    9 | [Der FC Bayern Hackathon](baddiggs/9_fcb_hackathon.md)                                  | Hackathon, Kultur, Sport             | 07/2022         |
 |    8 | [Der Experte - Comedy Sketch](baddiggs/8_der_experte.md)                                | Meeting, Kultur, Satire              | 07/2022         |
