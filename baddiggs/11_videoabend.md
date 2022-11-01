@@ -7,19 +7,19 @@ Wie macht man das in der Praxis, wenn im Unternehmen bestimmte Personengruppen d
 
 # Teambuilding mal anders
 
-Eine gute Idee ist ein gemeinsamer Videoabend mit dem Team, mit den Führungskräften, mit der Geschäftsführung. In einer gemütlichen Runde ggf. auch mit Popcorn u.ä. Nur dass man im organisatorischen Umfeld keine Blockbuster schaut, sondern andere Dinge. Beispielsweise Videos, welche die Kommunikation in der Runde anregen, unpopuläre Meinungen aus einer neutralen Sicht in der Runde platzieren und sich niemand dafür rechtfertigen muss.
+Eine gute Idee ist ein gemeinsamer Videoabend mit dem Team, mit den Führungskräften, mit der Geschäftsführung. In einer gemütlichen Runde ggf. auch mit Popcorn u.ä. Nur dass man im organisatorischen Umfeld keine Blockbuster schaut, sondern andere Dinge. Beispielsweise Videos, welche die Kommunikation in der Runde anregen, unpopuläre Meinungen aus einer neutralen Sicht in der Runde platziert und sich niemand dafür rechtfertigen muss.
 
-So bekommt man schnell einen Überblick, wie ein Kollektiv zu einer bestimmten Sache steht. Man kann sogar durch die Beobachtung der anderen Teilnehmern bereits erkennen, wie sie zu bestimmten Aussagen stehen. Ein Ergebnis eines solchen Videoabends kann durchaus sein, dass die Runde die Inhalte des Videos ablehnt und sich geschlossen für einen alternativen bzw. bisherigen Weg entscheidet. Nur dass man hiermit endlose Meetings u.ä. umgehen konnte und eine schnelle Entscheidung gefallen ist und hoffentlich begründet wurde.
+So bekommt man schnell einen Überblick, wie ein Kollektiv zu einer bestimmten Sache steht. Man kann sogar durch die Beobachtung der anderen Teilnehmer bereits erkennen, wie sie zu bestimmten Aussagen stehen. Ein Ergebnis eines solchen Videoabends kann durchaus sein, dass die Runde die Inhalte des Videos ablehnt und sich geschlossen für einen alternativen bzw. bisherigen Weg entscheidet. Nur dass man hiermit endlose Meetings u.ä. umgehen konnte, vielleicht eine schnelle Entscheidung gefallen ist und hoffentlich begründet wurde.
 
 
 ## Wie kommt man zu geeigneten Videos? 
 
-Das Internet bietet einen unerschöpflichen Fundus in alle Richtungen. Mit den richtigen Suchworten (z.B. "New Work", "Transformation") bei Youtube u.a. wird man schnell fündig. Alternativ kann man sich auch von publizierten Artikeln, Podcasts oder Autoren inspirieren lassen und gezielt danach suchen. Geeignet sind weiterhin Keynotes von Konferenzen aus der eigenen Branche.
+Das Internet bietet einen unerschöpflichen Fundus in alle Richtungen. Mit den richtigen Suchworten (z.B. "New Work", "Transformation") bei Youtube u.a. wird man schnell fündig. Alternativ kann man sich auch von publizierten Artikeln, Podcasts oder bestimmten Autoren inspirieren lassen und gezielt danach suchen. Geeignet sind weiterhin Keynotes von Konferenzen aus der eigenen Branche.
 
 
 ## Wie sollte man einen solchen Videoabend organisieren?
 
-Beispielsweise als eine Art "After Work Event" mit einer Startzeit zwischen 16:00 - 18:00 Uhr. Die Teilnehmer sollten rechtzeitig über diesen Event als Teambuildingmaßnahme informiert werden mit der Bitte, diesen Termin zeitnah zu bestätigen. Man kann bereits in der Einladung das Kind beim Namen nennen "Videoabend". Das macht neugierig, mehr sollte allerdings vorab nicht verraten werden.
+Beispielsweise als eine Art "After Work Event" mit einer Startzeit zwischen 16:00 - 18:00 Uhr. Die Teilnehmer sollten rechtzeitig über diese Aktivität als Teambuildingmaßnahme informiert werden mit der Bitte, den Termin zeitnah zu bestätigen. Man kann bereits in der Einladung das Kind beim Namen nennen: "Videoabend". Das macht neugierig, mehr sollte allerdings vorab nicht verraten werden.
 
 Wie lange dieser Videoabend gehen sollte, hängt etwas von den Teilnehmern ab. Das Video sollte nicht zu kurz aber auch nicht zu lang sein. Irgendetwas zwischen 15 Minuten und 1 Stunde. Vor dem Start muss anmoderiert werden. Hier ist darauf hinzuweisen, was man erwartet. Beispielsweise eine lebhafte Diskussion zu Themen, die bisher nicht so im Fokus stehen. 
 Für die Diskussion ist mindestens genauso viel Zeit einzuplanen, wie für das Video selbst. D.h. ein solcher Videoabend passt gut in ca. 2h.
